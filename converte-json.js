@@ -9,3 +9,4 @@ const objEstudante = JSON.parse(stringEstudante);
 console.log(objEstudante);
 console.log(typeof objEstudante);
 console.log(objEstudante.nome);
+console.log(objEstudante.idade);
