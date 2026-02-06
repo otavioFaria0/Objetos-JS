@@ -10,5 +10,3 @@ console.log(objEstudante);
 console.log(typeof objEstudante);
 console.log(objEstudante.nome);
 console.log(objEstudante.idade);
-
-console.log(objEstudante.enderecos[0].cep);
